@@ -1,0 +1,52 @@
+{
+  "description":"quotes database",
+  "quotes": [
+  {"author": "Jorge Luis Borges",
+    "quote": "The minotaur more than justifies the existence of the labyrinth."
+  },
+  {"author": "Jorge Luis Borges",
+    "quote": "Reality is not always probable, or likely."
+  },
+  {"author": "Jorge Luis Borges",
+    "quote": "The possibilities of the art of combination are not infinite, but they tend to be frightful."
+  },
+  {"author": "Jorge Luis Borges",
+    "quote": "Reading … is an activity subsequent to writing: more resigned, more civil, more intellectual."
+  },
+  {"author": "Jorge Luis Borges",
+    "quote": "The original is unfaithful to the translation."
+  },
+  {"author": "Jorge Luis Borges",
+    "quote": "Dictatorships foster oppression, dictatorships foster servitude, dictatorships foster cruelty; more abominable is the fact that they foster idiocy."
+  },
+  {"author": "Jorge Luis Borges",
+    "quote": "Any life, however long and complicated it may be, actually consists of a single moment — the moment when a man knows forever more who he is."
+  },
+  {"author": "Geoffrey Blainey",
+    "quote": "No wars are unintended or 'accidental'. What is often unintended is the length and bloodiness of the war."
+  },
+  {"author": "Cicero",
+    "quote": "He only employs his passion who can make no use of his reason."
+  },
+   {"author": "",
+    "quote": ""
+  },
+   {"author": "",
+    "quote": ""
+  },
+   {"author": "",
+    "quote": ""
+  },
+   {"author": "",
+    "quote": ""
+  },
+   {"author": "",
+    "quote": ""
+  },
+   {"author": "",
+    "quote": ""
+  },
+   {"author": "",
+    "quote": ""
+  },
+  ]
